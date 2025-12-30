@@ -9,9 +9,24 @@
   ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 </div>
 
+## Mục Lục
+- [Giới Thiệu](#giới-thiệu)
+- [Tính Năng Chính](#tính-năng-chính)
+- [Kiến Trúc Hệ Thống](#kiến-trúc-hệ-thống)
+- [Cài Đặt & Chạy](#cài-đặt--chạy)
+- [Cấu Trúc Dự Án](#cấu-trúc-dự-án)
+- [Giao Diện](#giao-diện)
+- [Bảo Mật](#bảo-mật)
+- [Hiệu Suất](#hiệu-suất)
+- [Đóng Góp](#đóng-góp)
+- [Giấy Phép](#giấy-phép)
+- [Liên Hệ](#liên-hệ)
+
+---
+
 ## Giới Thiệu
 
-**GAMEFRIENDZONE** là một nền tảng mạng xã hội kết hợp game đa năng được phát triển bằng Java, mang đến trải nghiệm giải trí toàn diện cho người dùng. Dự án kết hợp mô hình Client-Server với Peer-to-Peer để đảm bảo hiệu suất cao cho các tính năng thời gian thực.
+> **GAMEFRIENDZONE** là một nền tảng mạng xã hội kết hợp game đa năng được phát triển bằng Java, mang đến trải nghiệm giải trí toàn diện cho người dùng. Dự án kết hợp mô hình Client-Server với Peer-to-Peer để đảm bảo hiệu suất cao cho các tính năng thời gian thực.
 
 ### Mục Tiêu Dự Án
 - Tạo nền tảng mạng xã hội thân thiện cho giới trẻ
@@ -92,7 +107,12 @@ run_server.bat
 run_client.bat
 ```
 
+---
+
 ## Cấu Trúc Dự Án
+
+<details>
+<summary>Nhấn để xem cấu trúc chi tiết</summary>
 
 ```
 GAMEFRIENDZONE/
@@ -119,6 +139,10 @@ GAMEFRIENDZONE/
 └── README.md                   # This file
 ```
 
+</details>
+
+---
+
 ## Giao Diện
 
 <div align="center">
@@ -131,6 +155,8 @@ GAMEFRIENDZONE/
 - **Game Rooms**: Các phòng game đa dạng
 - **Chat Interface**: Giao tiếp với stickers
 
+---
+
 ## Bảo Mật
 
 - **SSL/TLS**: Mã hóa kết nối client-server
@@ -138,12 +164,16 @@ GAMEFRIENDZONE/
 - **Input Validation**: Ngăn chặn SQL injection
 - **Session Management**: Quản lý phiên làm việc
 
+---
+
 ## Hiệu Suất
 
 - **Concurrent Users**: Hỗ trợ 100+ users đồng thời
 - **Latency**: < 100ms cho real-time features
 - **Scalability**: Modular architecture cho mở rộng
 - **Resource Usage**: Optimized cho low-end hardware
+
+---
 
 ## Đóng Góp
 
@@ -167,15 +197,15 @@ Dự án này được phân phối dưới giấy phép MIT. Xem file `LICENSE`
 
 ## Tác Giả
 
-- **Developer**: [Tên của bạn]
+- **Developer**: Lê Hoàng
 - **Project**: GAMEFRIENDZONE
 - **Version**: 2.5 Final
 
 ## Liên Hệ
 
-- **Email**: your.email@example.com
+- **Email**: le294594@gmail.com
 - **GitHub**: [Visin-8386](https://github.com/Visin-8386)
-- **LinkedIn**: [Your LinkedIn]
+
 
 ---
 
@@ -183,4 +213,3 @@ Dự án này được phân phối dưới giấy phép MIT. Xem file `LICENSE`
   <p>Made with love by GAMEFRIENDZONE Team</p>
   <p>Star us on GitHub if you like this project!</p>
 </div></content>
-<parameter name="filePath">d:\GAMEFRIENDZONE\README.md
