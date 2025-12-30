@@ -6,6 +6,22 @@
             <file>file:/D:/GAMEFRIENDZONE/src/gamefriendzone/GAMEFRIENDZONE.java</file>
             <file>file:/D:/GAMEFRIENDZONE/src/gamefriendzone/DbConnection.java</file>
             <file>file:/D:/GAMEFRIENDZONE/src/gamefriendzone/bang.java</file>
+            <file>file:/D:/GAMEFRIENDZONE/src/com/friendzone/server/ClientHandler.java</file>
+            <file>file:/D:/GAMEFRIENDZONE/src/com/friendzone/client/video/VideoSender.java</file>
+            <file>file:/D:/GAMEFRIENDZONE/src/com/friendzone/server/Server.java</file>
+            <file>file:/D:/GAMEFRIENDZONE/src/com/friendzone/client/video/VideoReceiver.java</file>
+            <file>file:/D:/GAMEFRIENDZONE/src/com/friendzone/client/view/CatchHeartPanel.java</file>
+            <file>file:/D:/GAMEFRIENDZONE/src/com/friendzone/client/view/VideoCallPanel.java</file>
+            <file>file:/D:/GAMEFRIENDZONE/src/com/friendzone/dao/FriendDAO.java</file>
+            <file>file:/D:/GAMEFRIENDZONE/src/com/friendzone/client/view/LobbyPanel.java</file>
+            <file>file:/D:/GAMEFRIENDZONE/src/com/friendzone/client/view/MainFrame.java</file>
+            <file>file:/D:/GAMEFRIENDZONE/src/com/friendzone/client/view/Icons.java</file>
+            <file>file:/D:/GAMEFRIENDZONE/src/com/friendzone/client/view/UserListCellRenderer.java</file>
+            <file>file:/D:/GAMEFRIENDZONE/src/com/friendzone/client/view/WordChainPanel.java</file>
+            <file>file:/D:/GAMEFRIENDZONE/src/com/friendzone/client/view/MatchesPanel.java</file>
+            <file>file:/D:/GAMEFRIENDZONE/src/com/friendzone/client/view/RegisterPanel.java</file>
+            <file>file:/D:/GAMEFRIENDZONE/src/com/friendzone/client/view/LoveQuizPanel.java</file>
+            <file>file:/D:/GAMEFRIENDZONE/src/com/friendzone/client/view/LoginPanel.java</file>
         </group>
     </open-files>
 </project-private>
